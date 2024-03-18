@@ -1,0 +1,22 @@
+# Ignore venv directory
+venv/
+
+# IDE/Editor Files
+.idea/
+.vscode/
+
+# Compiled Code and Build Artifacts
+__pycache__/
+*.pyc
+
+# Temporary Files and Logs
+*.log
+*.tmp
+*.swp
+
+# Configuration Files with Sensitive Information
+config.ini
+.env
+
+# Dependency Management Files
+pipfile.lock
